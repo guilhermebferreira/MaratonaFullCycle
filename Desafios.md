@@ -19,7 +19,6 @@ Se você subiu sua imagem no Docker Hub, a URL de acesso da imagem é:
 https://hub.docker.com/r/< seu_usuario >/< nome_da_sua_imagem >
 
 
-# Desafios
 ## Desafio 2
 ### Hello Full Cycle utilizando Buffalo
 
@@ -37,7 +36,6 @@ Dica: O Buffalo automaticamente gera um Dockerfile para você. Faça bom uso del
 Não se esqueça que também temos um canal na comunidade criada no Discord para debater exatamente esse desafio.
 
 
-# Desafios
 ## Desafio 3
 ### Endpoint serverless que realiza uma operação de soma
 
@@ -53,16 +51,13 @@ Para realizar o desafio, fique na liberdade para escolher entre as linguagens: j
 Não se esqueça que também temos um canal na comunidade criada no Discord para debater exatamente esse desafio.
 
 
-# Desafios
 ## Desafio 4
 ### 
 
 
-# Desafios
 ## Desafio 5
 ### 
 
 
-# Desafios
 ## Desafio 6
 ### 
